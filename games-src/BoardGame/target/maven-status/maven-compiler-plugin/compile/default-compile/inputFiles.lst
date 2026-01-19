@@ -1,0 +1,11 @@
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/Point.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/Board.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/Move.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/Player.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/TypicalBoard.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/moves/MoveMove.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/moves/PlaceAndRotateMove.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/moves/PlaceMove.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/moves/RotateMove.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/moves/ShiftMove.java
+/home/homoglobina/College/AI/ZadanieZGier/zrodla/games-src/BoardGame/src/main/java/put/ai/games/game/moves/SkipMove.java

@@ -1,0 +1,6 @@
+put/ai/games/dominion/DominionSkipMove.class
+put/ai/games/dominion/DominionBoardFactory.class
+put/ai/games/dominion/DominionMoveMove.class
+put/ai/games/dominion/SwappingMove.class
+put/ai/games/dominion/DominionBoard.class
+put/ai/games/dominion/DominionPlaceMove.class

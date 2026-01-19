@@ -1,0 +1,15 @@
+put/ai/games/Point.class
+put/ai/games/game/Board.class
+put/ai/games/game/Player$Color.class
+put/ai/games/game/moves/PlaceAndRotateMove.class
+put/ai/games/game/moves/RotateMove$Direction.class
+put/ai/games/game/moves/PlaceMove.class
+put/ai/games/game/moves/MoveMove.class
+put/ai/games/game/moves/SkipMove.class
+put/ai/games/game/Move.class
+put/ai/games/game/moves/RotateMove.class
+put/ai/games/game/TypicalBoard$1.class
+put/ai/games/game/Player.class
+put/ai/games/game/TypicalBoard.class
+put/ai/games/game/moves/ShiftMove$Direction.class
+put/ai/games/game/moves/ShiftMove.class
