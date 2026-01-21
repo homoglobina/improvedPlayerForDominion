@@ -16,7 +16,7 @@ public class ImprovedPlayer extends Player {
 
     @Override
     public String getName() {
-        return "Jakub Domań 159579 Krzysztof Świątek 160155 ";
+        return "Jakub Doman 159579 Krzysztof Swiatek 160155 ";
     }
 
     @Override
